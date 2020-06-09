@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>324047474660-cdf4f908cud2vp3usiv1jr3hm0q1squo.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.324047474660-cdf4f908cud2vp3usiv1jr3hm0q1squo</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAHfvrozv1CONhXwHAhBn3nU5gbSe9RhMM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>324047474660</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.ggVision</string>
+	<key>PROJECT_ID</key>
+	<string>ggvision-54c22</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ggvision-54c22.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:324047474660:ios:4965e723e6679a1e46c1f1</string>
+	<key>DATABASE_URL</key>
+	<string>https://ggvision-54c22.firebaseio.com</string>
+</dict>
+</plist>
